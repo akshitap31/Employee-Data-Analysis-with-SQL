@@ -34,7 +34,7 @@ An organisation's database contains 6 datasets with information about its employ
 
 1. QuickDBD diagram showing relation between tables
 
-![quickdbd](images\erd1.png)
+![quickdbd](images/erd1.png)
 
 2. Example of a SQL queried report
 ![sqlreport](images\query.png) 
