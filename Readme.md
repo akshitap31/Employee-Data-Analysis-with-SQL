@@ -37,10 +37,10 @@ An organisation's database contains 6 datasets with information about its employ
 ![quickdbd](images/erd1.png)
 
 2. Example of a SQL queried report
-![sqlreport](images\query.png) 
+![sqlreport](images/query.png) 
 
 3. Salary Range Histogram
-![salrange](images\Capture2.PNG)
+![salrange](images/Capture2.PNG)
 
 4. Average Salar per Title bar graph
-![title](images\Capture.PNG)
+![title](images/Capture.PNG)
